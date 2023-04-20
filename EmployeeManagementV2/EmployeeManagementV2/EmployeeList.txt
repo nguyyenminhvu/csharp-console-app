@@ -1,0 +1,10 @@
+﻿1,Nguyen Minh Vu, Boss, 15.0
+2,Ronaldo, Boss, 16.0
+3,Messi,Employee,10.0
+4,John,Middle-Boss,12.0
+5,Kroos,Employee,8.0
+6,Son Tung,Middle-Boss,12.5
+7,Nguyen Van A,Employee,7.5
+8,May Lanh,Employee,6.0
+9,Van Dijk,Middle-Boss,11.5
+10,Laptop Acer,Boss,15.5
