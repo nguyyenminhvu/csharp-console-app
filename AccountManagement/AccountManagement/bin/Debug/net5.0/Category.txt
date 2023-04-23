@@ -1,0 +1,1 @@
+[{"Id":0,"Name":"Zalo"},{"Id":1,"Name":"Facebook"},{"Id":2,"Name":"Gmail"},{"Id":3,"Name":"Garena"},{"Id":4,"Name":"Social"}]

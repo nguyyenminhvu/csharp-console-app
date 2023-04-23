@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfvclfKWBFi4r89Z30yxuNLStXoOfYzgPQn8Qvd8G7diNx8rWIrv2AJPkexyF5Ex4uwWZ02o5sPJ8h8GWZxyvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\General\\.NET Console App Lamboro\\AccountManagement\\AccountManagement\\AccountManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
