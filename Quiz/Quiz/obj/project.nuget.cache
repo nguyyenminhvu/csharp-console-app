@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5of0swvc+XcuOYZntnyTpy/d2yiJmZgDdr7yoV9eivmUHX+h42SHLVSpcvZjcXX8Siz1pu8hg/KuVQd1Bqtaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\General\\.NET Console App Lamboro\\Quiz\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

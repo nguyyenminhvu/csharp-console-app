@@ -1,0 +1,38 @@
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.exe
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.deps.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\refint\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\ref\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\data.txt
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.CopyComplete
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.exe
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\data.txt
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.deps.json
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Quiz.pdb
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.CopyComplete
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\refint\Quiz.dll
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.pdb
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\.NET Console App Lamboro\Quiz\Quiz\obj\Debug\net5.0\ref\Quiz.dll

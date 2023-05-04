@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\publish\ActionWithFile.exe
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\publish\ActionWithFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\publish\ActionWithFile.deps.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\publish\ActionWithFile.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\publish\ActionWithFile.pdb

@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.exe
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.deps.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\bin\Release\net5.0\ActionWithFile.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\refint\ActionWithFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ActionWithFile.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\ActionWithFile\ActionWithFile\obj\Release\net5.0\ref\ActionWithFile.dll

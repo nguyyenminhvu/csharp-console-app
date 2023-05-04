@@ -1,0 +1,1 @@
+[{"QuestionQuizz":"Mot cong mot","Answers":["Hai","Mot"],"RealAnswer":["Hai"]},{"QuestionQuizz":"ba cong ba","Answers":["sau","bay","tam"],"RealAnswer":["sau"]},{"QuestionQuizz":"ba cong bon","Answers":["bay","tam chin","muoi","muoi mot"],"RealAnswer":["bay"]},{"QuestionQuizz":"tam tru 1","Answers":["bay","sau"],"RealAnswer":["bay"]}]
