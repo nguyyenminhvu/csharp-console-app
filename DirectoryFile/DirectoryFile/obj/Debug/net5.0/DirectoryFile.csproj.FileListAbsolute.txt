@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.exe
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.deps.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\bin\Debug\net5.0\DirectoryFile.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\refint\DirectoryFile.dll
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.pdb
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\DirectoryFile.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\.NET Lamboro\DirectoryFile\DirectoryFile\obj\Debug\net5.0\ref\DirectoryFile.dll
