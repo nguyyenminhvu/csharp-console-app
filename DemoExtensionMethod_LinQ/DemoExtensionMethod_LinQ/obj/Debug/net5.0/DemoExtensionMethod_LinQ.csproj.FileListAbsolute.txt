@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.exe
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.deps.json
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.runtimeconfig.json
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.dll
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\bin\Debug\net5.0\DemoExtensionMethod_LinQ.pdb
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.dll
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\refint\DemoExtensionMethod_LinQ.dll
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.pdb
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\DemoExtensionMethod_LinQ.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\.NET\DemoExtensionMethod_LinQ\DemoExtensionMethod_LinQ\obj\Debug\net5.0\ref\DemoExtensionMethod_LinQ.dll
