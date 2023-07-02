@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.exe
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.deps.json
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.dll
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\bin\Debug\net6.0\SinglyLinkedList.pdb
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.dll
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\refint\SinglyLinkedList.dll
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.pdb
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\SinglyLinkedList.genruntimeconfig.cache
+C:\Users\ACER\Desktop\General\C#\.NET\SinglyLinkedList\SinglyLinkedList\obj\Debug\net6.0\ref\SinglyLinkedList.dll
